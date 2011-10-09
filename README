@@ -9,3 +9,4 @@ Dependencies:
 
 * Python (2 or 3)
 * pygobject introspection
+* the gnome-shell extension "user theme"
