@@ -1,0 +1,11 @@
+GnomeShell theme changer v0.1
+(very) simple theme changer for the GnomeShell
+
+I've written this simple script in order to replace the (far better) theme selector from fpmurphy.com. 
+As I had some issues running this extension on GnomeShell 3.2, I wanted to provide another way to
+change GnomeShell themes easily.
+
+Dependencies:
+
+* Python (2 or 3)
+* pygobject introspection
